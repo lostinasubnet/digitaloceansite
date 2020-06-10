@@ -1,0 +1,79 @@
+/* Notes
+testing an edit
+
+testing #2
+
+testing 3
+
+testing 4
+Font Size
+16px = 100% = 1em
+
+*/
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.top-container {
+    background-color: #b2ebf2;
+    padding-top: 100px;
+    position: relative;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Abril Fatface', serif;
+    font-size: 5.62rem;
+    color: #ff5722;
+    line-height: 1;
+}
+
+.top-container p {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 2.5rem;
+
+}
+
+h2, h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3, a {
+    color:#11999E;
+}
+
+.middle-container {
+
+}
+
+img.internet {
+    width: 180px;
+    height: 180px;
+}
+
+.bottom-container {
+
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 75px;
+    right: 30 %;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
